@@ -1,0 +1,10 @@
+{
+  "name": "uploading-a-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "multipart-read-stream": "^3.0.1",
+    "pump": "^3.0.0"
+  }
+}
